@@ -91,6 +91,9 @@ p.text-description {
 a.link {
   text-decoration: none;
 }
+a.link:hover, a.link:focus {
+  color: var(--blue);
+}
 a.link.active,
 a.link:active {
   color: var(--blue);
