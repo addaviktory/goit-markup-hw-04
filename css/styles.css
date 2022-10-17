@@ -237,11 +237,6 @@ button.border-button:focus {
 .link-icon {
   fill: var(--description-gray);
 }
-.advantage-list {
-  display: flex;
-  gap: 30px;
-  margin-bottom: 30px;
-}
 .advantage-background {
   width: 270px;
   height: 120px;
@@ -250,6 +245,7 @@ button.border-button:focus {
   justify-content: center;
   align-items: center;
   border-radius: 4px;
+  margin-bottom: 30px;
 }
 /* -----------------------------------Header---------------------------- */
 .header {
